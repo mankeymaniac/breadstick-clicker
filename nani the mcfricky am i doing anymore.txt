@@ -1,0 +1,9 @@
+Let's make a game!
+    name:Breadstick Clicker
+    author:Vimdeklus
+    created:12/16/2018
+    updated:12/16/2018
+    version:0.01
+
+Settings
+    background:starry night.jpg
