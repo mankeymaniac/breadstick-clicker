@@ -1,4 +1,4 @@
-"Let's make a game!"
+Let's make a game!
     name:Breadstick Clicker
     author:Vimdeklus
     created:12/16/2018
